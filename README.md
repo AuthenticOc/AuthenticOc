@@ -14,6 +14,9 @@
 - Terraform · Azure · GitHub Actions · OIDC ·   
 - Linux (Ubuntu, Kali) · M365 · VS Code · CI/CD
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olechristian&layout=compact)
+
 
 ## 🚀 På gang nå
 
