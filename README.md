@@ -7,7 +7,6 @@
 - ☁️ Automatisering i **Azure** med **Terraform** og **GitHub Actions**
 - 🔐 Fokus på **sikker infrastruktur som kode** (CI/CD, OIDC, IAM, Key Vault, m.m.)
 - 📦 Distribusjon og versjonskontroll av backend-infrastruktur via GitHub og remote backends
-- 🐧 Linux-oppsett og sikkerhetstesting med verktøy som `nmap`, `knockd`, `ufw` og `openssh-server`
 
 ## 🛠️ Teknologier og verktøy
 
