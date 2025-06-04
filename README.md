@@ -14,6 +14,11 @@
 - Terraform · Azure · GitHub Actions · OIDC ·   
 - Linux (Ubuntu, Kali) · M365 · VS Code · CI/CD
 
+![Terraform](https://img.shields.io/badge/Terraform-5c4ee5?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 ## 🚀 På gang nå
 
 - Ferdigstilt et dyptgående prosjekt om **sikker og automatisert infrastruktur i Azure** med open source-verktøy.
